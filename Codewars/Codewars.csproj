@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BlueAndRedMarbles.cs" />
+    <Compile Include="CubeChecker.cs" />
     <Compile Include="DisemvowelsTrolls.cs" />
     <Compile Include="SumOfMinimums.cs" />
     <Compile Include="ClockPast.cs" />

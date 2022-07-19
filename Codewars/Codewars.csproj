@@ -48,6 +48,8 @@
     <Compile Include="BlueAndRedMarbles.cs" />
     <Compile Include="CubeChecker.cs" />
     <Compile Include="DisemvowelsTrolls.cs" />
+    <Compile Include="OpenOrSenior.cs" />
+    <Compile Include="Summation.cs" />
     <Compile Include="SumOfMinimums.cs" />
     <Compile Include="ClockPast.cs" />
     <Compile Include="GetGrade.cs" />
@@ -60,6 +62,8 @@
     <Compile Include="ReverseString.cs" />
     <Compile Include="MakeComplement.cs" />
     <Compile Include="TestOnList.cs" />
+    <Compile Include="StringEndsWith.cs" />
+    <Compile Include="CountBy.cs" />
     <Compile Include="Watermelon.cs" />
   </ItemGroup>
   <ItemGroup>

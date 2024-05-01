@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars", "Codewars\Codewars.csproj", "{0B9EA055-A8A6-4E2E-B137-910A1D1182DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewars", "Codewars\Codewars.csproj", "{0B9EA055-A8A6-4E2E-B137-910A1D1182DF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewars.Test", "Codewars-Test\Codewars.Test.csproj", "{D48D9853-3EA1-4472-9032-067B0AC63FAE}"
 EndProject
